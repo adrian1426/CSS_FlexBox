@@ -12,15 +12,18 @@ section {
 
 .caja1 {
   background: blue;
+  flex-basis: 0;
   flex-grow: 1;
 }
 
 .caja2 {
   background: green;
-  flex-grow: 2;
+  flex-basis: 0;
+  flex-grow: 1;
 }
 
 .caja3 {
   background: pink;
+  flex-basis: 0;
   flex-grow: 1;
 }
