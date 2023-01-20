@@ -16,6 +16,7 @@ section {
 
 .caja2 {
   background: green;
+  align-self: flex-end;
 }
 
 .caja3 {
