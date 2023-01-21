@@ -24,6 +24,5 @@ section {
 
 .caja3 {
   background: pink;
-  flex-basis: 0;
-  flex-grow: 1;
+  flex: 1 1 0px;
 }
